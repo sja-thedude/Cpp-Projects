@@ -1,0 +1,3 @@
+/Users/sja-thedude/Documents/GitHub/Cpp-Projects/Build a Calculator/cmake-build-debug/CMakeFiles/C__.dir
+/Users/sja-thedude/Documents/GitHub/Cpp-Projects/Build a Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sja-thedude/Documents/GitHub/Cpp-Projects/Build a Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
